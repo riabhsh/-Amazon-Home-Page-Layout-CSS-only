@@ -91,7 +91,7 @@ height: 30px; */
 .logoimg{
    width: 105px;
    height: 35px;
-   background-image: url('img/sprite.png');
+   background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/sprite.png');
    object-fit: cover;
    background-position: -6px -51px;
 }
@@ -120,7 +120,7 @@ height: 30px; */
 .licon{
     width: 100%;
     height: 25px;
-    background-image: url('img/sprite.png');
+    background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/sprite.png');
     object-fit: cover;
     background-position: 280px -376px;
 }
@@ -179,7 +179,7 @@ height: 30px; */
     height: 13px;
     /* background-color: red; */
     background-size: 250px auto;
-    background-image: url('img/sprite.png');
+    background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/sprite.png');
     background-position: -127px -241px;
 }
 
@@ -202,7 +202,7 @@ height: 30px; */
     height: 100%;
     background-color: #ffb650;
     /* border-radius: 4px; */
-    background-image: url('img/sprite.png');
+    background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/sprite.png');
     object-fit: cover;
     background-position: 4px -283px;
     flex-shrink: 0;
@@ -219,7 +219,7 @@ height: 30px; */
     width: 30px;
     height: 20px;
     background-size: 388px auto;
-    background-image: url('img/flags.png');
+    background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/flags.png');
     background-position: -39px -74px;
     background-repeat: no-repeat;
 }
@@ -238,7 +238,7 @@ height: 30px; */
     margin-top: 4px;
     display: inline-block;
     background-size: 150px auto;
-    background-image: url('img/sprite.png');
+    background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/sprite.png');
     background-position: 73px -145px;
     width: 10px;
     height: 6px;
@@ -282,7 +282,7 @@ height: 30px; */
 }
 .carticon{
     display: inline-block;
-    background-image: url('img/sprite.png');
+    background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/sprite.png');
     background-size: 320px auto;
     background-position: -198px -302px;
     width: 40px;
@@ -301,7 +301,7 @@ height: 30px; */
     gap: 2px;
 }
 .menu2_all_ham{
-    background-image: url('img/sprite.png');
+    background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/sprite.png');
     background-position: -171px -252px;
     margin-bottom: 2px;
     width: 20px;
@@ -332,7 +332,7 @@ height: 30px; */
     gap: 2px;
 }
 .menu2_all_ham{
-    background-image: url('img/sprite.png');
+    background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/sprite.png');
     background-position: -171px -252px;
     margin-bottom: 2px;
     width: 20px;
@@ -641,7 +641,7 @@ height: 30px; */
 
     .menu1ham{
         display: inline-block;
-        background-image: url('img/sprite.png');
+        background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/sprite.png');
         width: 30px;
         height: 64%;
         margin-top: -15px;
@@ -673,7 +673,7 @@ height: 30px; */
 
     .signinmob_right{
         display: inline-block;
-        background-image: url('img/sprite.png');
+        background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/sprite.png');
         background-position: 243px -339px;
         width: 10px;
         height: 10px;
@@ -683,7 +683,7 @@ height: 30px; */
         display: inline-block;
         width: 30px;
         height: 30px;
-        background-image: url('img/sprite.png');
+        background-image: url('https://raw.githubusercontent.com/riabhsh/Amazon-Home-Page-Layout-CSS-only/main/img/sprite.png');
         background-position: -134px 112px;
     }
 
