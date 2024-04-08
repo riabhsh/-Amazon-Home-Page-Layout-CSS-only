@@ -2,7 +2,7 @@
 Amazon Home Page Layout  with  Only CSS
 
 ## Preview
-
+https://codepen.io/riabhsh/full/ZEZxPKp
 
 ## Demo
 ### Mobile:
